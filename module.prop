@@ -1,0 +1,7 @@
+id=AndroidZram
+name=AndroidZram
+version=20250427
+versionCode=2025042700
+author=lxl66566
+description=Use zram on Android device (zstd first)
+updateJson=https://raw.githubusercontent.com/lxl66566/AndroidZram/main/update.json
