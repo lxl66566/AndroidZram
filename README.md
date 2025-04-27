@@ -8,4 +8,4 @@ fork 自 [HChenX/MemoryOpt](https://github.com/HChenX/MemoryOpt)，移除 AppRet
 
 ## 使用方法
 
-直接下载该仓库源码 zip 格式，在 Magisk 中安装即可。
+在 Release 中下载 zip，在 Magisk 中安装即可。
